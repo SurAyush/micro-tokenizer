@@ -1,4 +1,4 @@
-# Coding a simple tokenizer using Byte Pair Encoding (BPE) algorithm from scarth
+# Coding a simple tokenizer using Byte Pair Encoding (BPE) algorithm from scratch 
 # It will first split the text using regex into pieces, then apply BPE to merge the most frequent pairs of characters
 
 import regex as re
